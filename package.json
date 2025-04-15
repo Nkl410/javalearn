@@ -5,8 +5,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["learn","intro","first","freecodecamp"],
+  "author": "Nikola",
   "license": "ISC",
-  "description": ""
+  "description": "Un projet pour apprendre un peu java"
 }
+
+
