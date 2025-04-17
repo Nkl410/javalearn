@@ -3,15 +3,19 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node myApp.js"
   },
-  "keywords": ["learn","intro","first","freecodecamp"],
+  "keywords": [
+    "learn",
+    "intro",
+    "first",
+    "freecodecamp"
+  ],
   "author": "Nikola",
   "license": "ISC",
-  "description": "Un projet pour apprendre un peu java"
+  "description": "Un projet pour apprendre un peu java",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "package": "1.0.0"
 }
-
-
-
-
-
